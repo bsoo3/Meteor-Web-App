@@ -9,4 +9,4 @@ So..
 Going to learn Metero, this is a javascript library.
 I will link the youtube tutorial about the library
 
-Will be posting code in this repository.
+Will be posting code in this repository and also notes.
